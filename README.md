@@ -7,3 +7,6 @@ Watch this sub.
 ## Local Developement
 
 1. Open index.html on your browser.
+
+## Undo
+Si te besh undo.
